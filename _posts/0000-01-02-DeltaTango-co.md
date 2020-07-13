@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Jesus is the Way, the Truth and the life!"
 
 ---
 
