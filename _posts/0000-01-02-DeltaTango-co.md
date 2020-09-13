@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Jesus is the Way, the Truth and the life!"
+title: "Jesus is the Way, the Truth and the life! Amen."
 
 ---
 
